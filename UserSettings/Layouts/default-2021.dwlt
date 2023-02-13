@@ -15,6 +15,7 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 43
     width: 1920
@@ -22,6 +23,8 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: Project
 =======
+=======
+>>>>>>> parent of 602a2be (commit)
     x: 2249
     y: 302.5
     width: 1206
@@ -102,9 +105,12 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 363
     height: 566
 =======
+=======
+>>>>>>> parent of 602a2be (commit)
     width: 228
     height: 394
 >>>>>>> parent of 602a2be (commit)
@@ -132,9 +138,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 566
     width: 1466
     height: 381
+=======
+    y: 394
+    width: 921
+    height: 271
+>>>>>>> parent of 602a2be (commit)
 =======
     y: 394
     width: 921
@@ -287,17 +299,23 @@ MonoBehaviour:
     x: 363
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1103
     height: 566
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
 =======
+=======
+>>>>>>> parent of 602a2be (commit)
     width: 693
     height: 394
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 15}
+<<<<<<< HEAD
+>>>>>>> parent of 602a2be (commit)
+=======
 >>>>>>> parent of 602a2be (commit)
   m_Panes:
   - {fileID: 15}
@@ -315,8 +333,13 @@ MonoBehaviour:
   m_EditorHideFlags: 1
   m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Name: 
   m_EditorClassIdentifier: 
+=======
+  m_Name:
+  m_EditorClassIdentifier:
+>>>>>>> parent of 602a2be (commit)
 =======
   m_Name:
   m_EditorClassIdentifier:
@@ -326,6 +349,7 @@ MonoBehaviour:
   m_TitleContent:
     m_Text: Project
     m_Image: {fileID: -5467254957812901981, guid: 0000000000000000d000000000000000, type: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_Tooltip: 
   m_Pos:
@@ -341,6 +365,8 @@ MonoBehaviour:
   m_SearchFilter:
     m_NameFilter: 
 =======
+=======
+>>>>>>> parent of 602a2be (commit)
     m_Tooltip:
   m_Pos:
     serializedVersion: 2
@@ -351,6 +377,9 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter:
+<<<<<<< HEAD
+>>>>>>> parent of 602a2be (commit)
+=======
 >>>>>>> parent of 602a2be (commit)
     m_ClassNames: []
     m_AssetLabels: []
@@ -358,8 +387,13 @@ MonoBehaviour:
     m_VersionControlStates: []
     m_SoftLockControlStates: []
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ReferencingInstanceIDs: 
     m_SceneHandles: 
+=======
+    m_ReferencingInstanceIDs:
+    m_SceneHandles:
+>>>>>>> parent of 602a2be (commit)
 =======
     m_ReferencingInstanceIDs:
     m_SceneHandles:
@@ -368,6 +402,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
 <<<<<<< HEAD
     - Assets/Scenes
     m_Globs: []
@@ -379,6 +414,8 @@ MonoBehaviour:
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Cristhian\Documents\UCF\DIG 3480\Tutorial3\Project1
 =======
+=======
+>>>>>>> parent of 602a2be (commit)
     - Assets
     m_Globs: []
   m_ViewMode: 1
@@ -387,11 +424,15 @@ MonoBehaviour:
   - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: U:\layout
+<<<<<<< HEAD
+>>>>>>> parent of 602a2be (commit)
+=======
 >>>>>>> parent of 602a2be (commit)
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_SelectedIDs: d25d0000
     m_LastClickedID: 24018
@@ -401,6 +442,8 @@ MonoBehaviour:
       m_Name: 
       m_OriginalName: 
 =======
+=======
+>>>>>>> parent of 602a2be (commit)
     m_SelectedIDs: f4350000
     m_LastClickedID: 13812
     m_ExpandedIDs: 00000000f435000000ca9a3b
@@ -408,6 +451,9 @@ MonoBehaviour:
       m_UserAcceptedRename: 0
       m_Name:
       m_OriginalName:
+<<<<<<< HEAD
+>>>>>>> parent of 602a2be (commit)
+=======
 >>>>>>> parent of 602a2be (commit)
       m_EditFieldRect:
         serializedVersion: 2
@@ -421,6 +467,7 @@ MonoBehaviour:
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_SearchString: 
     m_CreateAssetUtility:
@@ -439,6 +486,8 @@ MonoBehaviour:
       m_Name: 
       m_OriginalName: 
 =======
+=======
+>>>>>>> parent of 602a2be (commit)
     m_SearchString:
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -455,6 +504,9 @@ MonoBehaviour:
       m_UserAcceptedRename: 0
       m_Name:
       m_OriginalName:
+<<<<<<< HEAD
+>>>>>>> parent of 602a2be (commit)
+=======
 >>>>>>> parent of 602a2be (commit)
       m_EditFieldRect:
         serializedVersion: 2
@@ -468,6 +520,7 @@ MonoBehaviour:
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_SearchString: 
     m_CreateAssetUtility:
@@ -486,6 +539,8 @@ MonoBehaviour:
       m_Name: 
       m_OriginalName: 
 =======
+=======
+>>>>>>> parent of 602a2be (commit)
     m_SearchString:
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -502,6 +557,9 @@ MonoBehaviour:
       m_UserAcceptedRename: 0
       m_Name:
       m_OriginalName:
+<<<<<<< HEAD
+>>>>>>> parent of 602a2be (commit)
+=======
 >>>>>>> parent of 602a2be (commit)
       m_EditFieldRect:
         serializedVersion: 2
@@ -515,6 +573,7 @@ MonoBehaviour:
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_ClientGUIView: {fileID: 5}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -523,6 +582,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
 =======
+=======
+>>>>>>> parent of 602a2be (commit)
       m_ClientGUIView: {fileID: 0}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -530,6 +591,9 @@ MonoBehaviour:
       m_Path:
       m_Icon: {fileID: 0}
       m_ResourceFile:
+<<<<<<< HEAD
+>>>>>>> parent of 602a2be (commit)
+=======
 >>>>>>> parent of 602a2be (commit)
     m_NewAssetIndexInList: -1
     m_ScrollPosition: {x: 0, y: 0}
@@ -547,8 +611,13 @@ MonoBehaviour:
   m_EditorHideFlags: 1
   m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Name: 
   m_EditorClassIdentifier: 
+=======
+  m_Name:
+  m_EditorClassIdentifier:
+>>>>>>> parent of 602a2be (commit)
 =======
   m_Name:
   m_EditorClassIdentifier:
@@ -558,6 +627,7 @@ MonoBehaviour:
   m_TitleContent:
     m_Text: Inspector
     m_Image: {fileID: -2667387946076563598, guid: 0000000000000000d000000000000000, type: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_Tooltip: 
   m_Pos:
@@ -573,6 +643,8 @@ MonoBehaviour:
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization: 
 =======
+=======
+>>>>>>> parent of 602a2be (commit)
     m_Tooltip:
   m_Pos:
     serializedVersion: 2
@@ -583,6 +655,9 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization:
+<<<<<<< HEAD
+>>>>>>> parent of 602a2be (commit)
+=======
 >>>>>>> parent of 602a2be (commit)
   m_PreviewResizer:
     m_CachedPref: 160
@@ -591,8 +666,13 @@ MonoBehaviour:
   m_LastInspectedObjectInstanceID: -1
   m_LastVerticalScrollValue: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GlobalObjectId: 
   m_InspectorMode: 0
+=======
+  m_AssetGUID:
+  m_InstanceID: 0
+>>>>>>> parent of 602a2be (commit)
 =======
   m_AssetGUID:
   m_InstanceID: 0
@@ -611,8 +691,13 @@ MonoBehaviour:
   m_EditorHideFlags: 1
   m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Name: 
   m_EditorClassIdentifier: 
+=======
+  m_Name:
+  m_EditorClassIdentifier:
+>>>>>>> parent of 602a2be (commit)
 =======
   m_Name:
   m_EditorClassIdentifier:
@@ -622,6 +707,7 @@ MonoBehaviour:
   m_TitleContent:
     m_Text: Hierarchy
     m_Image: {fileID: 7966133145522015247, guid: 0000000000000000d000000000000000, type: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_Tooltip: 
   m_Pos:
@@ -645,6 +731,8 @@ MonoBehaviour:
         m_Name: 
         m_OriginalName: 
 =======
+=======
+>>>>>>> parent of 602a2be (commit)
     m_Tooltip:
   m_Pos:
     serializedVersion: 2
@@ -663,6 +751,9 @@ MonoBehaviour:
         m_UserAcceptedRename: 0
         m_Name:
         m_OriginalName:
+<<<<<<< HEAD
+>>>>>>> parent of 602a2be (commit)
+=======
 >>>>>>> parent of 602a2be (commit)
         m_EditFieldRect:
           serializedVersion: 2
@@ -676,8 +767,13 @@ MonoBehaviour:
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
+=======
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString:
+>>>>>>> parent of 602a2be (commit)
 =======
         m_ClientGUIView: {fileID: 0}
       m_SearchString:
@@ -699,8 +795,13 @@ MonoBehaviour:
   m_EditorHideFlags: 1
   m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Name: 
   m_EditorClassIdentifier: 
+=======
+  m_Name:
+  m_EditorClassIdentifier:
+>>>>>>> parent of 602a2be (commit)
 =======
   m_Name:
   m_EditorClassIdentifier:
@@ -710,6 +811,7 @@ MonoBehaviour:
   m_TitleContent:
     m_Text: Scene
     m_Image: {fileID: 2593428753322112591, guid: 0000000000000000d000000000000000, type: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_Tooltip: 
   m_Pos:
@@ -910,6 +1012,8 @@ MonoBehaviour:
       index: 10
       layout: 4
 =======
+=======
+>>>>>>> parent of 602a2be (commit)
     m_Tooltip:
   m_Pos:
     serializedVersion: 2

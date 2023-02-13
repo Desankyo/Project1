@@ -1,7 +1,12 @@
 {
   "dependencies": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "com.unity.collab-proxy": "1.17.1",
+=======
+    "com.unity.collab-proxy": "1.17.2",
+    "com.unity.feature.2d": "1.0.0",
+>>>>>>> parent of 602a2be (commit)
 =======
     "com.unity.collab-proxy": "1.17.2",
     "com.unity.feature.2d": "1.0.0",

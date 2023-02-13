@@ -1,9 +1,12 @@
 {
   "dependencies": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "com.unity.collab-proxy": {
       "version": "1.17.1",
 =======
+=======
+>>>>>>> parent of 602a2be (commit)
     "com.unity.2d.animation": {
       "version": "7.0.6",
       "depth": 1,
@@ -100,6 +103,9 @@
     },
     "com.unity.collab-proxy": {
       "version": "1.17.2",
+<<<<<<< HEAD
+>>>>>>> parent of 602a2be (commit)
+=======
 >>>>>>> parent of 602a2be (commit)
       "depth": 0,
       "source": "registry",
