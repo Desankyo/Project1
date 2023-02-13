@@ -9449,7 +9449,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 693270e48f8faa642b26d1338d9e1c39, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 4
+  health: 5
   numOfHearts: 5
   hearts:
   - {fileID: 1237897125}
