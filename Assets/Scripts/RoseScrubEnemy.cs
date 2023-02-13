@@ -37,15 +37,16 @@ private void OnCollisionEnter2D(Collision2D collision)
 {
     if (collision.gameObject.tag == "Projectile")
     {
-        health -= damage;
-        if (health <= 0)
-        {
-            Destroy(gameObject);
-        }
+        health --;
     }
       if(collision.gameObject.tag == "Sword")
         {
             health--;
+            
+        }
+        if (health <= 0)
+        {
+            Destroy(gameObject);
         }
     else if (collision.gameObject.tag == "Player")
     {
@@ -60,5 +61,5 @@ private void OnCollisionEnter2D(Collision2D collision)
             fromRight.knockFromRight = false;
         }
     }
-}
+ }
 }

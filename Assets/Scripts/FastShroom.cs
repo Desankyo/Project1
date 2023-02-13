@@ -70,5 +70,9 @@ public class FastShroom : MonoBehaviour
         {
             health--;
         }
+          if(collision.gameObject.tag == "Sword")
+        {
+            health--;
+        }
     }
 }
