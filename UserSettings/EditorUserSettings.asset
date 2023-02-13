@@ -6,10 +6,17 @@ EditorUserSettings:
   serializedVersion: 4
   m_ConfigSettings:
     RecentlyUsedSceneGuid-0:
+<<<<<<< HEAD
       value: 515250075c0c595e5f5a5e71122159444e4e4a2f7a7d7f602f284d66b4b76661
       flags: 0
     RecentlyUsedSceneGuid-1:
       value: 070451545505500e58595b7340255d444f15487b787877317b7e4864e1b7376a
+=======
+      value: 0200045e5d065d0b0c080921447508444e4e4d2e74297e66792a4530b2e4633b
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 5255075f5603505f5b59552148260a4443161b72797e2233742f4964e1b6636f
+>>>>>>> parent of 602a2be (commit)
       flags: 0
     RecentlyUsedSceneGuid-2:
       value: 51520c025d0c0d0a5f5a0a7515770e444f4e1e7e2e712365782d4e60b1b6633a
@@ -17,6 +24,18 @@ EditorUserSettings:
     RecentlyUsedSceneGuid-3:
       value: 0550505204540f5d5e0b097544735e444e4e4a2f7c2975312c7c1f37e7e66769
       flags: 0
+<<<<<<< HEAD
+=======
+    RecentlyUsedSceneGuid-3:
+      value: 51520c025d0c0d0a5f5a0a7515770e444f4e1e7e2e712365782d4e60b1b6633a
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 070451545505500e58595b7340255d444f15487b787877317b7e4864e1b7376a
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 515250075c0c595e5f5a5e71122159444e4e4a2f7a7d7f602f284d66b4b76661
+      flags: 0
+>>>>>>> parent of 602a2be (commit)
     vcSharedLogLevel:
       value: 0d5e400f0650
       flags: 0
